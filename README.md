@@ -44,3 +44,26 @@ Este repositório contém um simulador computacional do jogo UNO, desenvolvido c
 
 ---
 
+# Author's
+
+<a href="https://github.com/DouglaxN">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/107768709?v=4" width="100px;" alt=""/>
+ <br /></a> 
+ <a href="https://github.com/DouglaxN" title="bioinformatics is the future"><code>Douglas Nunes 🧬</code></a>
+
+Clique para saber mais!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Douglas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-nunes-da-silva-78a95319b/)](https://www.linkedin.com/in/douglas-nunes-da-silva-78a95319b/) 
+[![Gmail Badge](https://img.shields.io/badge/-douglas.devx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglas.devx@gmail.com)](mailto:douglas.devx@gmail.com)
+
+---
+
+<a href="https://github.com/Julio-CSilva">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/57691025?s=400&u=15893c15d3d42c7737e91cc4f11dcbd7751b7565&v=4" width="100px;" alt=""/>
+ <br /></a> 
+ <a href="https://github.com/Julio-CSilva" title="bioinformatics is the future"><code>Júlio Silva 🧬</code></a>
+
+Clique para saber mais!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Julio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julio-csilva/)](https://www.linkedin.com/in/julio-csilva/) 
+[![Gmail Badge](https://img.shields.io/badge/-juliocesarfilho0112@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliocesarfilho0112@gmail.com)](mailto:juliocesarfilho0112@gmail.com)
