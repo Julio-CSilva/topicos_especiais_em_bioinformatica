@@ -9,9 +9,9 @@ Este repositório contém um simulador computacional do jogo UNO, desenvolvido c
 | Tipo             | Arquivo                                | Descrição                                       |
 |------------------|----------------------------------------|-------------------------------------------------|
 | 💻 Código        | `UNO_Simulator.ipynb`                   | Notebook Jupyter contendo o simulador UNO, as estratégias e a análise inicial dos resultados. |
-| 📊 Resultados    | `resultados_simulacaoUNO_10000x9.csv`   | Resultados de 10.000 partidas simuladas com 9 bots. |
-|                  | `resultados_simulacaoUNO_10000x6.csv`   | Resultados de 10.000 partidas simuladas com 6 bots. |
-|                  | `resultados_simulacaoUNO_10000x3.csv`   | Resultados de 10.000 partidas simuladas com 3 bots. |
+| 📊 Resultados    | `csv/resultados_simulacaoUNO_10000x9.csv`   | Resultados de 10.000 partidas simuladas com 9 bots. |
+|                  | `csv/resultados_simulacaoUNO_10000x6.csv`   | Resultados de 10.000 partidas simuladas com 6 bots. |
+|                  | `csv/resultados_simulacaoUNO_10000x3.csv`   | Resultados de 10.000 partidas simuladas com 3 bots. |
 | 📄 Documentos    | `Relatório Estatístico do UNO`          | Análise estatística das simulações e discussão dos resultados. |
 |                  | `Estratégias no Jogo UNO`               | Descrição detalhada das estratégias implementadas e suas lógicas. |
 
